@@ -7,52 +7,52 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A8568E8A1A594B02008F09BF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568E891A594B02008F09BF /* main.m */; };
-		A8568E8D1A594B02008F09BF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568E8C1A594B02008F09BF /* AppDelegate.m */; };
-		A8568E901A594B02008F09BF /* iOS_CircleProfileImage.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A8568E8E1A594B02008F09BF /* iOS_CircleProfileImage.xcdatamodeld */; };
-		A8568E931A594B02008F09BF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568E921A594B02008F09BF /* ViewController.m */; };
-		A8568E961A594B02008F09BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8568E941A594B02008F09BF /* Main.storyboard */; };
-		A8568E981A594B02008F09BF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8568E971A594B02008F09BF /* Images.xcassets */; };
-		A8568E9B1A594B02008F09BF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A8568E991A594B02008F09BF /* LaunchScreen.xib */; };
-		A8568EA71A594B02008F09BF /* iOS_CircleProfileImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568EA61A594B02008F09BF /* iOS_CircleProfileImageTests.m */; };
+		A8568EF41A594D29008F09BF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568EF31A594D29008F09BF /* main.m */; };
+		A8568EF71A594D29008F09BF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568EF61A594D29008F09BF /* AppDelegate.m */; };
+		A8568EFA1A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A8568EF81A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodeld */; };
+		A8568EFD1A594D29008F09BF /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568EFC1A594D29008F09BF /* ViewController.m */; };
+		A8568F001A594D29008F09BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8568EFE1A594D29008F09BF /* Main.storyboard */; };
+		A8568F021A594D29008F09BF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8568F011A594D29008F09BF /* Images.xcassets */; };
+		A8568F051A594D29008F09BF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A8568F031A594D29008F09BF /* LaunchScreen.xib */; };
+		A8568F111A594D29008F09BF /* iOS_CircleProfileImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568F101A594D29008F09BF /* iOS_CircleProfileImageTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A8568EA11A594B02008F09BF /* PBXContainerItemProxy */ = {
+		A8568F0B1A594D29008F09BF /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A8568E7C1A594B01008F09BF /* Project object */;
+			containerPortal = A8568EE61A594D29008F09BF /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A8568E831A594B01008F09BF;
+			remoteGlobalIDString = A8568EED1A594D29008F09BF;
 			remoteInfo = iOS_CircleProfileImage;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A8568E841A594B02008F09BF /* iOS_CircleProfileImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_CircleProfileImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8568E881A594B02008F09BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A8568E891A594B02008F09BF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A8568E8B1A594B02008F09BF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		A8568E8C1A594B02008F09BF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		A8568E8F1A594B02008F09BF /* iOS_CircleProfileImage.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = iOS_CircleProfileImage.xcdatamodel; sourceTree = "<group>"; };
-		A8568E911A594B02008F09BF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		A8568E921A594B02008F09BF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		A8568E951A594B02008F09BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A8568E971A594B02008F09BF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		A8568E9A1A594B02008F09BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		A8568EA01A594B02008F09BF /* iOS_CircleProfileImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOS_CircleProfileImageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8568EA51A594B02008F09BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A8568EA61A594B02008F09BF /* iOS_CircleProfileImageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS_CircleProfileImageTests.m; sourceTree = "<group>"; };
+		A8568EEE1A594D29008F09BF /* iOS_CircleProfileImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_CircleProfileImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8568EF21A594D29008F09BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8568EF31A594D29008F09BF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A8568EF51A594D29008F09BF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A8568EF61A594D29008F09BF /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A8568EF91A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = iOS_CircleProfileImage.xcdatamodel; sourceTree = "<group>"; };
+		A8568EFB1A594D29008F09BF /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		A8568EFC1A594D29008F09BF /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		A8568EFF1A594D29008F09BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A8568F011A594D29008F09BF /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		A8568F041A594D29008F09BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		A8568F0A1A594D29008F09BF /* iOS_CircleProfileImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOS_CircleProfileImageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A8568F0F1A594D29008F09BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8568F101A594D29008F09BF /* iOS_CircleProfileImageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS_CircleProfileImageTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A8568E811A594B01008F09BF /* Frameworks */ = {
+		A8568EEB1A594D29008F09BF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A8568E9D1A594B02008F09BF /* Frameworks */ = {
+		A8568F071A594D29008F09BF /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -62,62 +62,62 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A8568E7B1A594B01008F09BF = {
+		A8568EE51A594D29008F09BF = {
 			isa = PBXGroup;
 			children = (
-				A8568E861A594B02008F09BF /* iOS_CircleProfileImage */,
-				A8568EA31A594B02008F09BF /* iOS_CircleProfileImageTests */,
-				A8568E851A594B02008F09BF /* Products */,
+				A8568EF01A594D29008F09BF /* iOS_CircleProfileImage */,
+				A8568F0D1A594D29008F09BF /* iOS_CircleProfileImageTests */,
+				A8568EEF1A594D29008F09BF /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A8568E851A594B02008F09BF /* Products */ = {
+		A8568EEF1A594D29008F09BF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A8568E841A594B02008F09BF /* iOS_CircleProfileImage.app */,
-				A8568EA01A594B02008F09BF /* iOS_CircleProfileImageTests.xctest */,
+				A8568EEE1A594D29008F09BF /* iOS_CircleProfileImage.app */,
+				A8568F0A1A594D29008F09BF /* iOS_CircleProfileImageTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A8568E861A594B02008F09BF /* iOS_CircleProfileImage */ = {
+		A8568EF01A594D29008F09BF /* iOS_CircleProfileImage */ = {
 			isa = PBXGroup;
 			children = (
-				A8568E8B1A594B02008F09BF /* AppDelegate.h */,
-				A8568E8C1A594B02008F09BF /* AppDelegate.m */,
-				A8568E911A594B02008F09BF /* ViewController.h */,
-				A8568E921A594B02008F09BF /* ViewController.m */,
-				A8568E941A594B02008F09BF /* Main.storyboard */,
-				A8568E971A594B02008F09BF /* Images.xcassets */,
-				A8568E991A594B02008F09BF /* LaunchScreen.xib */,
-				A8568E8E1A594B02008F09BF /* iOS_CircleProfileImage.xcdatamodeld */,
-				A8568E871A594B02008F09BF /* Supporting Files */,
+				A8568EF51A594D29008F09BF /* AppDelegate.h */,
+				A8568EF61A594D29008F09BF /* AppDelegate.m */,
+				A8568EFB1A594D29008F09BF /* ViewController.h */,
+				A8568EFC1A594D29008F09BF /* ViewController.m */,
+				A8568EFE1A594D29008F09BF /* Main.storyboard */,
+				A8568F011A594D29008F09BF /* Images.xcassets */,
+				A8568F031A594D29008F09BF /* LaunchScreen.xib */,
+				A8568EF81A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodeld */,
+				A8568EF11A594D29008F09BF /* Supporting Files */,
 			);
 			path = iOS_CircleProfileImage;
 			sourceTree = "<group>";
 		};
-		A8568E871A594B02008F09BF /* Supporting Files */ = {
+		A8568EF11A594D29008F09BF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				A8568E881A594B02008F09BF /* Info.plist */,
-				A8568E891A594B02008F09BF /* main.m */,
+				A8568EF21A594D29008F09BF /* Info.plist */,
+				A8568EF31A594D29008F09BF /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		A8568EA31A594B02008F09BF /* iOS_CircleProfileImageTests */ = {
+		A8568F0D1A594D29008F09BF /* iOS_CircleProfileImageTests */ = {
 			isa = PBXGroup;
 			children = (
-				A8568EA61A594B02008F09BF /* iOS_CircleProfileImageTests.m */,
-				A8568EA41A594B02008F09BF /* Supporting Files */,
+				A8568F101A594D29008F09BF /* iOS_CircleProfileImageTests.m */,
+				A8568F0E1A594D29008F09BF /* Supporting Files */,
 			);
 			path = iOS_CircleProfileImageTests;
 			sourceTree = "<group>";
 		};
-		A8568EA41A594B02008F09BF /* Supporting Files */ = {
+		A8568F0E1A594D29008F09BF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				A8568EA51A594B02008F09BF /* Info.plist */,
+				A8568F0F1A594D29008F09BF /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -125,13 +125,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A8568E831A594B01008F09BF /* iOS_CircleProfileImage */ = {
+		A8568EED1A594D29008F09BF /* iOS_CircleProfileImage */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A8568EAA1A594B02008F09BF /* Build configuration list for PBXNativeTarget "iOS_CircleProfileImage" */;
+			buildConfigurationList = A8568F141A594D29008F09BF /* Build configuration list for PBXNativeTarget "iOS_CircleProfileImage" */;
 			buildPhases = (
-				A8568E801A594B01008F09BF /* Sources */,
-				A8568E811A594B01008F09BF /* Frameworks */,
-				A8568E821A594B01008F09BF /* Resources */,
+				A8568EEA1A594D29008F09BF /* Sources */,
+				A8568EEB1A594D29008F09BF /* Frameworks */,
+				A8568EEC1A594D29008F09BF /* Resources */,
 			);
 			buildRules = (
 			);
@@ -139,46 +139,46 @@
 			);
 			name = iOS_CircleProfileImage;
 			productName = iOS_CircleProfileImage;
-			productReference = A8568E841A594B02008F09BF /* iOS_CircleProfileImage.app */;
+			productReference = A8568EEE1A594D29008F09BF /* iOS_CircleProfileImage.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A8568E9F1A594B02008F09BF /* iOS_CircleProfileImageTests */ = {
+		A8568F091A594D29008F09BF /* iOS_CircleProfileImageTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A8568EAD1A594B02008F09BF /* Build configuration list for PBXNativeTarget "iOS_CircleProfileImageTests" */;
+			buildConfigurationList = A8568F171A594D29008F09BF /* Build configuration list for PBXNativeTarget "iOS_CircleProfileImageTests" */;
 			buildPhases = (
-				A8568E9C1A594B02008F09BF /* Sources */,
-				A8568E9D1A594B02008F09BF /* Frameworks */,
-				A8568E9E1A594B02008F09BF /* Resources */,
+				A8568F061A594D29008F09BF /* Sources */,
+				A8568F071A594D29008F09BF /* Frameworks */,
+				A8568F081A594D29008F09BF /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A8568EA21A594B02008F09BF /* PBXTargetDependency */,
+				A8568F0C1A594D29008F09BF /* PBXTargetDependency */,
 			);
 			name = iOS_CircleProfileImageTests;
 			productName = iOS_CircleProfileImageTests;
-			productReference = A8568EA01A594B02008F09BF /* iOS_CircleProfileImageTests.xctest */;
+			productReference = A8568F0A1A594D29008F09BF /* iOS_CircleProfileImageTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A8568E7C1A594B01008F09BF /* Project object */ = {
+		A8568EE61A594D29008F09BF /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = WeiqiZhao;
 				TargetAttributes = {
-					A8568E831A594B01008F09BF = {
+					A8568EED1A594D29008F09BF = {
 						CreatedOnToolsVersion = 6.1.1;
 					};
-					A8568E9F1A594B02008F09BF = {
+					A8568F091A594D29008F09BF = {
 						CreatedOnToolsVersion = 6.1.1;
-						TestTargetID = A8568E831A594B01008F09BF;
+						TestTargetID = A8568EED1A594D29008F09BF;
 					};
 				};
 			};
-			buildConfigurationList = A8568E7F1A594B01008F09BF /* Build configuration list for PBXProject "iOS_CircleProfileImage" */;
+			buildConfigurationList = A8568EE91A594D29008F09BF /* Build configuration list for PBXProject "iOS_CircleProfileImage" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -186,29 +186,29 @@
 				en,
 				Base,
 			);
-			mainGroup = A8568E7B1A594B01008F09BF;
-			productRefGroup = A8568E851A594B02008F09BF /* Products */;
+			mainGroup = A8568EE51A594D29008F09BF;
+			productRefGroup = A8568EEF1A594D29008F09BF /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A8568E831A594B01008F09BF /* iOS_CircleProfileImage */,
-				A8568E9F1A594B02008F09BF /* iOS_CircleProfileImageTests */,
+				A8568EED1A594D29008F09BF /* iOS_CircleProfileImage */,
+				A8568F091A594D29008F09BF /* iOS_CircleProfileImageTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A8568E821A594B01008F09BF /* Resources */ = {
+		A8568EEC1A594D29008F09BF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8568E961A594B02008F09BF /* Main.storyboard in Resources */,
-				A8568E9B1A594B02008F09BF /* LaunchScreen.xib in Resources */,
-				A8568E981A594B02008F09BF /* Images.xcassets in Resources */,
+				A8568F001A594D29008F09BF /* Main.storyboard in Resources */,
+				A8568F051A594D29008F09BF /* LaunchScreen.xib in Resources */,
+				A8568F021A594D29008F09BF /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A8568E9E1A594B02008F09BF /* Resources */ = {
+		A8568F081A594D29008F09BF /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -218,48 +218,48 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A8568E801A594B01008F09BF /* Sources */ = {
+		A8568EEA1A594D29008F09BF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8568E8D1A594B02008F09BF /* AppDelegate.m in Sources */,
-				A8568E8A1A594B02008F09BF /* main.m in Sources */,
-				A8568E931A594B02008F09BF /* ViewController.m in Sources */,
-				A8568E901A594B02008F09BF /* iOS_CircleProfileImage.xcdatamodeld in Sources */,
+				A8568EF71A594D29008F09BF /* AppDelegate.m in Sources */,
+				A8568EF41A594D29008F09BF /* main.m in Sources */,
+				A8568EFD1A594D29008F09BF /* ViewController.m in Sources */,
+				A8568EFA1A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A8568E9C1A594B02008F09BF /* Sources */ = {
+		A8568F061A594D29008F09BF /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8568EA71A594B02008F09BF /* iOS_CircleProfileImageTests.m in Sources */,
+				A8568F111A594D29008F09BF /* iOS_CircleProfileImageTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A8568EA21A594B02008F09BF /* PBXTargetDependency */ = {
+		A8568F0C1A594D29008F09BF /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A8568E831A594B01008F09BF /* iOS_CircleProfileImage */;
-			targetProxy = A8568EA11A594B02008F09BF /* PBXContainerItemProxy */;
+			target = A8568EED1A594D29008F09BF /* iOS_CircleProfileImage */;
+			targetProxy = A8568F0B1A594D29008F09BF /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		A8568E941A594B02008F09BF /* Main.storyboard */ = {
+		A8568EFE1A594D29008F09BF /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A8568E951A594B02008F09BF /* Base */,
+				A8568EFF1A594D29008F09BF /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		A8568E991A594B02008F09BF /* LaunchScreen.xib */ = {
+		A8568F031A594D29008F09BF /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
-				A8568E9A1A594B02008F09BF /* Base */,
+				A8568F041A594D29008F09BF /* Base */,
 			);
 			name = LaunchScreen.xib;
 			sourceTree = "<group>";
@@ -267,7 +267,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		A8568EA81A594B02008F09BF /* Debug */ = {
+		A8568F121A594D29008F09BF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -309,7 +309,7 @@
 			};
 			name = Debug;
 		};
-		A8568EA91A594B02008F09BF /* Release */ = {
+		A8568F131A594D29008F09BF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -345,7 +345,7 @@
 			};
 			name = Release;
 		};
-		A8568EAB1A594B02008F09BF /* Debug */ = {
+		A8568F151A594D29008F09BF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -355,7 +355,7 @@
 			};
 			name = Debug;
 		};
-		A8568EAC1A594B02008F09BF /* Release */ = {
+		A8568F161A594D29008F09BF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -365,7 +365,7 @@
 			};
 			name = Release;
 		};
-		A8568EAE1A594B02008F09BF /* Debug */ = {
+		A8568F181A594D29008F09BF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -384,7 +384,7 @@
 			};
 			name = Debug;
 		};
-		A8568EAF1A594B02008F09BF /* Release */ = {
+		A8568F191A594D29008F09BF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -402,45 +402,45 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A8568E7F1A594B01008F09BF /* Build configuration list for PBXProject "iOS_CircleProfileImage" */ = {
+		A8568EE91A594D29008F09BF /* Build configuration list for PBXProject "iOS_CircleProfileImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A8568EA81A594B02008F09BF /* Debug */,
-				A8568EA91A594B02008F09BF /* Release */,
+				A8568F121A594D29008F09BF /* Debug */,
+				A8568F131A594D29008F09BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A8568EAA1A594B02008F09BF /* Build configuration list for PBXNativeTarget "iOS_CircleProfileImage" */ = {
+		A8568F141A594D29008F09BF /* Build configuration list for PBXNativeTarget "iOS_CircleProfileImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A8568EAB1A594B02008F09BF /* Debug */,
-				A8568EAC1A594B02008F09BF /* Release */,
+				A8568F151A594D29008F09BF /* Debug */,
+				A8568F161A594D29008F09BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		A8568EAD1A594B02008F09BF /* Build configuration list for PBXNativeTarget "iOS_CircleProfileImageTests" */ = {
+		A8568F171A594D29008F09BF /* Build configuration list for PBXNativeTarget "iOS_CircleProfileImageTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A8568EAE1A594B02008F09BF /* Debug */,
-				A8568EAF1A594B02008F09BF /* Release */,
+				A8568F181A594D29008F09BF /* Debug */,
+				A8568F191A594D29008F09BF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		A8568E8E1A594B02008F09BF /* iOS_CircleProfileImage.xcdatamodeld */ = {
+		A8568EF81A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				A8568E8F1A594B02008F09BF /* iOS_CircleProfileImage.xcdatamodel */,
+				A8568EF91A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodel */,
 			);
-			currentVersion = A8568E8F1A594B02008F09BF /* iOS_CircleProfileImage.xcdatamodel */;
+			currentVersion = A8568EF91A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodel */;
 			path = iOS_CircleProfileImage.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = A8568E7C1A594B01008F09BF /* Project object */;
+	rootObject = A8568EE61A594D29008F09BF /* Project object */;
 }

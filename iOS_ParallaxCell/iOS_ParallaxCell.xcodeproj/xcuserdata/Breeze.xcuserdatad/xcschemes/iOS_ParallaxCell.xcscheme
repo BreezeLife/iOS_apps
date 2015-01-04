@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A8568EED1A594D29008F09BF"
-               BuildableName = "iOS_CircleProfileImage.app"
-               BlueprintName = "iOS_CircleProfileImage"
-               ReferencedContainer = "container:iOS_CircleProfileImage.xcodeproj">
+               BlueprintIdentifier = "A8568F601A594D70008F09BF"
+               BuildableName = "iOS_ParallaxCell.app"
+               BlueprintName = "iOS_ParallaxCell"
+               ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A8568F091A594D29008F09BF"
-               BuildableName = "iOS_CircleProfileImageTests.xctest"
-               BlueprintName = "iOS_CircleProfileImageTests"
-               ReferencedContainer = "container:iOS_CircleProfileImage.xcodeproj">
+               BlueprintIdentifier = "A8568F7C1A594D70008F09BF"
+               BuildableName = "iOS_ParallaxCellTests.xctest"
+               BlueprintName = "iOS_ParallaxCellTests"
+               ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A8568F091A594D29008F09BF"
-               BuildableName = "iOS_CircleProfileImageTests.xctest"
-               BlueprintName = "iOS_CircleProfileImageTests"
-               ReferencedContainer = "container:iOS_CircleProfileImage.xcodeproj">
+               BlueprintIdentifier = "A8568F7C1A594D70008F09BF"
+               BuildableName = "iOS_ParallaxCellTests.xctest"
+               BlueprintName = "iOS_ParallaxCellTests"
+               ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A8568EED1A594D29008F09BF"
-            BuildableName = "iOS_CircleProfileImage.app"
-            BlueprintName = "iOS_CircleProfileImage"
-            ReferencedContainer = "container:iOS_CircleProfileImage.xcodeproj">
+            BlueprintIdentifier = "A8568F601A594D70008F09BF"
+            BuildableName = "iOS_ParallaxCell.app"
+            BlueprintName = "iOS_ParallaxCell"
+            ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A8568EED1A594D29008F09BF"
-            BuildableName = "iOS_CircleProfileImage.app"
-            BlueprintName = "iOS_CircleProfileImage"
-            ReferencedContainer = "container:iOS_CircleProfileImage.xcodeproj">
+            BlueprintIdentifier = "A8568F601A594D70008F09BF"
+            BuildableName = "iOS_ParallaxCell.app"
+            BlueprintName = "iOS_ParallaxCell"
+            ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A8568EED1A594D29008F09BF"
-            BuildableName = "iOS_CircleProfileImage.app"
-            BlueprintName = "iOS_CircleProfileImage"
-            ReferencedContainer = "container:iOS_CircleProfileImage.xcodeproj">
+            BlueprintIdentifier = "A8568F601A594D70008F09BF"
+            BuildableName = "iOS_ParallaxCell.app"
+            BlueprintName = "iOS_ParallaxCell"
+            ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

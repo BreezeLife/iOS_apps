@@ -4,20 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>iOS_CircleProfileImage.xcscheme</key>
+		<key>iOS_ParallaxCell.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A8568EED1A594D29008F09BF</key>
+		<key>A8568F601A594D70008F09BF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A8568F091A594D29008F09BF</key>
+		<key>A8568F7C1A594D70008F09BF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
