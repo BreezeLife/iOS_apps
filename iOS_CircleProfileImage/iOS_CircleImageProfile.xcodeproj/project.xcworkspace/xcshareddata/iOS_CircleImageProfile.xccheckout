@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>CCDC76F2-5143-493B-AFAA-D2A7DDD04369</string>
+	<string>CFB3A410-0CE3-4F0F-9B44-AD1BDAA66C0C</string>
 	<key>IDESourceControlProjectName</key>
-	<string>iOS_CircleProfileImage</string>
+	<string>iOS_CircleImageProfile</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>767650C9BBC2F6C675F3452F397FB75645DF38FA</key>
 		<string>https://github.com/BreezeLife/iOS_library.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iOS_CircleProfileImage/iOS_CircleProfileImage.xcodeproj</string>
+	<string>iOS_CircleProfileImage/iOS_CircleImageProfile.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>767650C9BBC2F6C675F3452F397FB75645DF38FA</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0610"
+   LastUpgradeVersion = "0510"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,24 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A8568F221A594D44008F09BF"
-               BuildableName = "iOS_ParallaxCell.app"
-               BlueprintName = "iOS_ParallaxCell"
-               ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A8568F3E1A594D44008F09BF"
-               BuildableName = "iOS_ParallaxCellTests.xctest"
-               BlueprintName = "iOS_ParallaxCellTests"
-               ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
+               BlueprintIdentifier = "F49BBF9618E7D982006E563B"
+               BuildableName = "ProfileDemo.app"
+               BlueprintName = "ProfileDemo"
+               ReferencedContainer = "container:ProfileDemo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A8568F3E1A594D44008F09BF"
-               BuildableName = "iOS_ParallaxCellTests.xctest"
-               BlueprintName = "iOS_ParallaxCellTests"
-               ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
+               BlueprintIdentifier = "F49BBFB718E7D982006E563B"
+               BuildableName = "ProfileDemoTests.xctest"
+               BlueprintName = "ProfileDemoTests"
+               ReferencedContainer = "container:ProfileDemo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A8568F221A594D44008F09BF"
-            BuildableName = "iOS_ParallaxCell.app"
-            BlueprintName = "iOS_ParallaxCell"
-            ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
+            BlueprintIdentifier = "F49BBF9618E7D982006E563B"
+            BuildableName = "ProfileDemo.app"
+            BlueprintName = "ProfileDemo"
+            ReferencedContainer = "container:ProfileDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A8568F221A594D44008F09BF"
-            BuildableName = "iOS_ParallaxCell.app"
-            BlueprintName = "iOS_ParallaxCell"
-            ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
+            BlueprintIdentifier = "F49BBF9618E7D982006E563B"
+            BuildableName = "ProfileDemo.app"
+            BlueprintName = "ProfileDemo"
+            ReferencedContainer = "container:ProfileDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A8568F221A594D44008F09BF"
-            BuildableName = "iOS_ParallaxCell.app"
-            BlueprintName = "iOS_ParallaxCell"
-            ReferencedContainer = "container:iOS_ParallaxCell.xcodeproj">
+            BlueprintIdentifier = "F49BBF9618E7D982006E563B"
+            BuildableName = "ProfileDemo.app"
+            BlueprintName = "ProfileDemo"
+            ReferencedContainer = "container:ProfileDemo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

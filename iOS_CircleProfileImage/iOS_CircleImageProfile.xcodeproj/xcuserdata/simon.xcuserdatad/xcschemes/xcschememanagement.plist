@@ -4,20 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>iOS_ParallaxCell.xcscheme</key>
+		<key>ProfileDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>A8568F221A594D44008F09BF</key>
+		<key>F49BBF9618E7D982006E563B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A8568F3E1A594D44008F09BF</key>
+		<key>F49BBFB718E7D982006E563B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -15,6 +15,10 @@
 		A8568F021A594D29008F09BF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8568F011A594D29008F09BF /* Images.xcassets */; };
 		A8568F051A594D29008F09BF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A8568F031A594D29008F09BF /* LaunchScreen.xib */; };
 		A8568F111A594D29008F09BF /* iOS_CircleProfileImageTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A8568F101A594D29008F09BF /* iOS_CircleProfileImageTests.m */; };
+		A856906B1A59634A008F09BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A856906A1A59634A008F09BF /* Foundation.framework */; };
+		A856906D1A596352008F09BF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A856906C1A596352008F09BF /* CoreGraphics.framework */; };
+		A856906F1A596358008F09BF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A856906E1A596358008F09BF /* UIKit.framework */; };
+		A85690761A59703B008F09BF /* b.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A85690751A59703B008F09BF /* b.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +46,10 @@
 		A8568F0A1A594D29008F09BF /* iOS_CircleProfileImageTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOS_CircleProfileImageTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8568F0F1A594D29008F09BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A8568F101A594D29008F09BF /* iOS_CircleProfileImageTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS_CircleProfileImageTests.m; sourceTree = "<group>"; };
+		A856906A1A59634A008F09BF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A856906C1A596352008F09BF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A856906E1A596358008F09BF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A85690751A59703B008F09BF /* b.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = b.jpg; path = "../../../../../005 Multimedia/b.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +57,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A856906F1A596358008F09BF /* UIKit.framework in Frameworks */,
+				A856906D1A596352008F09BF /* CoreGraphics.framework in Frameworks */,
+				A856906B1A59634A008F09BF /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -67,6 +78,7 @@
 			children = (
 				A8568EF01A594D29008F09BF /* iOS_CircleProfileImage */,
 				A8568F0D1A594D29008F09BF /* iOS_CircleProfileImageTests */,
+				A85690701A59638D008F09BF /* Frameworks */,
 				A8568EEF1A594D29008F09BF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -83,11 +95,12 @@
 		A8568EF01A594D29008F09BF /* iOS_CircleProfileImage */ = {
 			isa = PBXGroup;
 			children = (
+				A8568EFE1A594D29008F09BF /* Main.storyboard */,
 				A8568EF51A594D29008F09BF /* AppDelegate.h */,
 				A8568EF61A594D29008F09BF /* AppDelegate.m */,
 				A8568EFB1A594D29008F09BF /* ViewController.h */,
 				A8568EFC1A594D29008F09BF /* ViewController.m */,
-				A8568EFE1A594D29008F09BF /* Main.storyboard */,
+				A85690751A59703B008F09BF /* b.jpg */,
 				A8568F011A594D29008F09BF /* Images.xcassets */,
 				A8568F031A594D29008F09BF /* LaunchScreen.xib */,
 				A8568EF81A594D29008F09BF /* iOS_CircleProfileImage.xcdatamodeld */,
@@ -120,6 +133,16 @@
 				A8568F0F1A594D29008F09BF /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A85690701A59638D008F09BF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A856906E1A596358008F09BF /* UIKit.framework */,
+				A856906C1A596352008F09BF /* CoreGraphics.framework */,
+				A856906A1A59634A008F09BF /* Foundation.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,6 +227,7 @@
 			files = (
 				A8568F001A594D29008F09BF /* Main.storyboard in Resources */,
 				A8568F051A594D29008F09BF /* LaunchScreen.xib in Resources */,
+				A85690761A59703B008F09BF /* b.jpg in Resources */,
 				A8568F021A594D29008F09BF /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
